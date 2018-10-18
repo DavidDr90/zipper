@@ -1,0 +1,18 @@
+{
+    "name": "@daviddr90/zipper",
+    "version": "1.0.0",
+    "description": "Handle a zip file",
+    "license": "MIT",
+    "repository": "daviddr90/zipper",
+    "main": "index.js",
+    "keywords": [
+        "zip",
+        "file",
+        "angular",
+        "angular2",
+        "angular4",
+        "npm",
+        "package",
+        "daviddr90"
+    ]
+}
